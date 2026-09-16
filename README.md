@@ -12,8 +12,24 @@ CodeAlpha_SecureCoding Review/
 ├── secure_app.py         # Remediated application implementing secure coding practices
 ├── bandit_report.txt     # Static Application Security Testing (SAST) report
 ├── requirements.txt      # Python dependencies
+├── Screenshots/          # Demonstrations of vulnerabilities and remediations
 └── README.md             # Project documentation and review findings
 ```
+
+---
+
+## 📸 Screenshots
+
+The `Screenshots/` directory contains visual demonstrations of the vulnerable application, its secure counterpart, and the Bandit security report:
+
+- [Vulnerable application home page](Screenshots/home_vulnerable.png)
+- [Secure application home page](Screenshots/home_secure.png)
+- [SQL injection demonstration](Screenshots/sql_injection.png)
+- [Parameterized SQL query fix](Screenshots/sql_fixed.png)
+- [Cross-site scripting demonstration](Screenshots/xss_demo.png)
+- [OS command injection demonstration](Screenshots/ping_demo.png)
+- [Protected admin page](Screenshots/admin_protected.png)
+- [Bandit report](Screenshots/bandit_report.png)
 
 ---
 
