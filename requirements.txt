@@ -1,0 +1,4 @@
+Flask>=2.0.0
+Werkzeug>=2.0.0
+markupsafe>=2.0.0
+bandit>=1.7.0
