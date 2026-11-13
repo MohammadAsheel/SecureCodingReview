@@ -1,4 +1,4 @@
-# CodeAlpha - Secure Coding Review
+ Secure Coding Review
 
 This repository contains a comprehensive **Secure Coding Review** demonstration developed for the **CodeAlpha Cybersecurity Internship**. It showcases a comparative analysis between an intentionally vulnerable web application and its hardened, secure counterpart.
 
